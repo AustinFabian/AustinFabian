@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AustinFabian
 - 👀 I’m interested in computer programming 
-- 🌱 I’m currently learning and adding more languages to my stack
-- 💞️ I’m looking to collaborate on and to work with you all
-- 📫 How to reach me on LinkedIn @Austin Fabian
+- 🌱 I’m currently and adding more languages to my stack
+- 💞️ I’m looking to collaborate and to work with you all
+- 📫 Reach me on LinkedIn @Austin Fabian
